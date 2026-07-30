@@ -78,7 +78,7 @@ export const ARCHETYPES = [
     id: A.STOIC_OMEGA,
     name: 'Stoic Omega',
     type: 'omega',
-    people: ['Alyssa Featherston', 'Marcy Nguyen'],
+    people: ['Alyssa Featherston', 'Bee Sachdev', 'Marcy Nguyen'],
     compatibleWith: [A.DOM_ALPHA, A.CARING_BETA, A.PROTECTIVE_BETA, A.AGGRESSIVE_OMEGA],
   },
   {
