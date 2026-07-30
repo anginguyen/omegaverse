@@ -175,7 +175,11 @@ body {
 @media (max-width: 900px) {
   .columns {
     grid-template-columns: 1fr;
-    gap: 32px;
+    gap: 28px;
+  }
+
+  .column-cards { 
+    gap: 16px;
   }
 
   .graph-svg {
