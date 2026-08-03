@@ -75,11 +75,11 @@ export const ARCHETYPES = [
     compatibleWith: [A.FLIRTY_BETA, A.SOFT_ALPHA, A.CARING_BETA, A.AGGRESSIVE_OMEGA, A.DOM_ALPHA],
   },
   {
-    id: A.STOIC_OMEGA,
-    name: 'Stoic Omega',
+    id: A.AGGRESSIVE_OMEGA,
+    name: 'Aggressive Omega',
     type: 'omega',
-    people: ['Alyssa Featherston', 'Bee Sachdev', 'Devin Shah', 'Marcy Nguyen', 'Shadha Kazim'],
-    compatibleWith: [A.DOM_ALPHA, A.CARING_BETA, A.PROTECTIVE_BETA, A.AGGRESSIVE_OMEGA],
+    people: ['Benji Valenti', 'Charles Hoang', 'Iris Li', 'Jamie Van', 'Kim Nguyen', 'Serena Xiao'],
+    compatibleWith: [A.STOIC_OMEGA, A.SUB_ALPHA, A.INDEPENDENT_OMEGA],
   },
   {
     id: A.INDEPENDENT_OMEGA,
@@ -89,11 +89,11 @@ export const ARCHETYPES = [
     compatibleWith: [A.SUB_ALPHA, A.CARING_BETA, A.SOFT_ALPHA, A.AGGRESSIVE_OMEGA],
   },
   {
-    id: A.AGGRESSIVE_OMEGA,
-    name: 'Aggressive Omega',
+    id: A.STOIC_OMEGA,
+    name: 'Stoic Omega',
     type: 'omega',
-    people: ['Benji Valenti', 'Charles Hoang', 'Iris Li', 'Jamie Van', 'Kim Nguyen', 'Serena Xiao'],
-    compatibleWith: [A.STOIC_OMEGA, A.SUB_ALPHA, A.INDEPENDENT_OMEGA],
+    people: ['Alyssa Featherston', 'Bee Sachdev', 'Devin Shah', 'Marcy Nguyen', 'Shadha Kazim'],
+    compatibleWith: [A.DOM_ALPHA, A.CARING_BETA, A.PROTECTIVE_BETA, A.AGGRESSIVE_OMEGA],
   },
   {
     id: A.SUB_OMEGA,
