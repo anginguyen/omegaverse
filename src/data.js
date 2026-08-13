@@ -26,7 +26,7 @@ export const ARCHETYPES = [
     id: A.SOFT_ALPHA,
     name: 'Soft Alpha',
     type: 'alpha',
-    people: ['Angela Nguyen', 'Elaine Guo', 'Jacklynn Pham', 'Joanna Park', 'Luc Utheza'],
+    people: ['Angela Nguyen', 'David Tang', 'Elaine Guo', 'Jacklynn Pham', 'Joanna Park', 'Luc Utheza'],
     compatibleWith: [A.FLIRTY_BETA, A.LONER_ALPHA, A.CARING_BETA, A.INDEPENDENT_OMEGA, A.SUB_OMEGA],
   },
   {
